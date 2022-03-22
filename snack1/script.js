@@ -76,8 +76,6 @@ function zucchineWeight(array) {
 }
 
 
-
-
 const totalZucchineWeight = zucchineWeight(zucchine);
 
 console.log(totalZucchineWeight);
