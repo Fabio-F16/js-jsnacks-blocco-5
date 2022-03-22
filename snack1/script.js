@@ -60,6 +60,10 @@ const zucchine = [
 ]
 
 
+const totalZucchineWeight = zucchineWeight(zucchine);
+
+console.log(totalZucchineWeight);
+
 // funzioni ---------------------------------------------------------------------------------
 
 /**
@@ -76,7 +80,5 @@ function zucchineWeight(array) {
 }
 
 
-const totalZucchineWeight = zucchineWeight(zucchine);
 
-console.log(totalZucchineWeight);
 
